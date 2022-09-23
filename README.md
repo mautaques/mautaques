@@ -5,7 +5,7 @@
 
 ![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mautaques&theme=aura)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mautaques&theme=blue-green)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mautaques&theme=aura)
 
 ## Languages Knowledge 
 
