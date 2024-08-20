@@ -1,6 +1,6 @@
 ## Hi, i am Mauricio Taques, welcome to my profile! 🖐️
 
-![noite-estrelada](https://user-images.githubusercontent.com/84156460/191881591-cb6439ba-d5c7-42ee-9237-466d510b5ccd.gif)
+![nerdy](https://media1.tenor.com/m/HM8T5_RiFoIAAAAC/nerd.gif)
 
 #
 ![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mautaques&theme=aura)
