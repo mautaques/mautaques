@@ -1,6 +1,7 @@
 ## Hi, i am Mauricio Taques, welcome to my profile! 🖐️
 
-![nerdy](https://media1.tenor.com/m/HM8T5_RiFoIAAAAC/nerd.gif)
+![westen-fry-bonfire2x](https://github.com/user-attachments/assets/a735bf37-520b-4700-8eb5-5baffbbfedf1)
+
 
 #
 ![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mautaques&theme=aura)
