@@ -1,4 +1,4 @@
-## Hi, i am Mauricio Taques, welcome to my profile!
+## Hi, i'm Mauricio, welcome to my profile!
 
 ![westen-fry-bonfire2x](https://github.com/user-attachments/assets/a735bf37-520b-4700-8eb5-5baffbbfedf1)
 
