@@ -1,6 +1,6 @@
 ## Hi, i'm Mauricio, welcome to my profile!
 
-![westen-fry-bonfire2x](https://github.com/user-attachments/assets/a735bf37-520b-4700-8eb5-5baffbbfedf1)
+![Image](https://github.com/user-attachments/assets/e97d08fb-64a1-4d09-835a-c53b0a53cd7c)
 
 
 #
