@@ -1,5 +1,7 @@
 ## Hi, i'm Mauricio, welcome to my profile!
 
+<div align="center">
+
 <table>
   <tr>
     <td>
@@ -11,6 +13,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ##
 
