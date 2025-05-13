@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e97d08fb-64a1-4d09-835a-c53b0a53cd7c" width="250" alt="Pc Wizard"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mautaques&theme=aura" width="300" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautaques&theme=blue-green" width="300" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mautaques&theme=aura" width="250" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautaques&theme=blue-green" width="250" alt="Top Languages"/>
 </p>
 
 ##
