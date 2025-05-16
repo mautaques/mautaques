@@ -20,7 +20,6 @@
   <tr>
     <td>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=mautaques&theme=aura" width="340" alt="GitHub Stats"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautaques&theme=blue-green" width="300" alt="Top Languages"/>
       </p>
     </td>
