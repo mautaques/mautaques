@@ -16,15 +16,13 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautaques&theme=blue-green" width="300" alt="Top Languages"/>
-      </p>
-    </td>
-  </tr>
-</table>
+
+  <td>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautaques&theme=blue-green" width="300" alt="Top Languages"/>
+    </p>
+  </td>
+
 
 </div>
 
