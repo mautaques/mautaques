@@ -12,15 +12,17 @@
 
 ---
 
-## My stats
+## My Stats
 
 <div align="center">
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mautaques&theme=aura" width="350" alt="GitHub Stats"/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautaques&theme=blue-green" width="350" alt="Top Languages"/>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=mautaques&theme=aura" width="340" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautaques&theme=blue-green" width="300" alt="Top Languages"/>
+      </p>
     </td>
   </tr>
 </table>
