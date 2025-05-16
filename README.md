@@ -1,4 +1,4 @@
-### Hi, i'm Mauricio, welcome to my profile!
+### Hi, i'm Mauricio Martins Taques, welcome to my profile!
 
 ---
 
