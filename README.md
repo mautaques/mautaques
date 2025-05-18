@@ -7,9 +7,7 @@
 ## My Stats
 
 <td>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautaques&layout=donut&theme=blue-green" width="300" alt="Top Languages"/>
-  </p>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautaques&layout=donut&theme=blue-green" width="300" alt="Top Languages"/>
 </td>
   
 
