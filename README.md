@@ -1,4 +1,4 @@
-## About
+## About :suspect:
 
 <table>
   <tr>
@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-## My Stats
+## My Stats 📊
 
 <td>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautaques&layout=donut&theme=blue-green" width="300" alt="Top Languages"/>
