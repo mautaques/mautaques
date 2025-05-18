@@ -1,5 +1,6 @@
 ### Hi, i'm Mauricio Martins Taques, welcome to my profile!
 
+
 <div align="center">
   
    <td>
@@ -8,6 +9,7 @@
     
 </div>
 
+
 ## My Stats
 
   <td>
@@ -15,6 +17,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautaques&layout=donut&theme=blue-green" width="300" alt="Top Languages"/>
     </p>
   </td>
+  
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
