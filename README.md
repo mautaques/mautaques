@@ -1,4 +1,4 @@
-### Hi, i'm Mauricio Martins Taques, welcome to my profile!
+## About
 
 <td>
   <img src="https://github.com/user-attachments/assets/e97d08fb-64a1-4d09-835a-c53b0a53cd7c" width="250" alt="Pc Wizard"/>
