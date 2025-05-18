@@ -4,8 +4,8 @@
     <td><img src="https://github.com/user-attachments/assets/e97d08fb-64a1-4d09-835a-c53b0a53cd7c" width="250" alt="Pc Wizard"/></td>
     <td>
       <p>
-        <strong>Nome do Projeto</strong><br>
-        Aqui vai um texto explicativo do lado do GIF. Você pode colocar links, listas, ou qualquer HTML aqui.
+        Hi, i'm Mauricio Martins Taques, i'm a Computer Science undergraduate at UDESC.
+        My main interest areas are 
       </p>
     </td>
   </tr>
