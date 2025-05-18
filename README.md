@@ -6,7 +6,7 @@
     <td valign="top">
       <ul>
         <li>Hi, i'm Mauricio Martins Taques, i'm a Computer Science undergraduate and researcher at UDESC.</li>
-        <li>Here i store some projects of mine from CS subjects and reaserch projects.</li>
+        <li>Here i store some projects of mine from CS subjects and research projects.</li>
       </ul>
     </td>
   </tr>
