@@ -5,8 +5,8 @@
     <td><img src="https://github.com/user-attachments/assets/e97d08fb-64a1-4d09-835a-c53b0a53cd7c" width="250" alt="Pc Wizard"/></td>
     <td valign="top">
       <p>
-        Hi, i'm Mauricio Martins Taques, i'm a Computer Science undergraduate and researcher at UDESC.
-        Here are some repositories of projects of mine.
+        * Hi, i'm Mauricio Martins Taques, i'm a Computer Science undergraduate and researcher at UDESC.
+        * Here i store some projects of mine from CS subjects and reaserch projects.
       </p>
     </td>
   </tr>
