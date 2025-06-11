@@ -7,7 +7,7 @@
       <ul>
         <li>Hi!, my name is Mauricio Taques, i'm a Computer Science undergraduate and researcher at UDESC.</li>
         <li>Here i store some projects of mine from CS subjects and research program.</li>
-        ![KFC](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)
+        <li>![KFC](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)</li>
       </ul>
     </td>
   </tr>
