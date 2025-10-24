@@ -12,6 +12,8 @@
   </tr>
 </table>
 
+![Reading](https://github.com/MalwareStudio/Rover-The-Desktop-Assistant/assets/49496834/d1f2fdcf-6319-42c4-8d7f-c14074f15091)
+
 ## My Stats 📊
 
 <td>
