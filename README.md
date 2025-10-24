@@ -7,7 +7,6 @@
       <ul>
         <li>Hi!, my name is Mauricio Taques, i'm a Computer Science undergraduate and researcher at UDESC.</li>
         <li>Here i store some projects of mine from CS subjects and research program.</li>
-        ![Reading](https://github.com/MalwareStudio/Rover-The-Desktop-Assistant/assets/49496834/d1f2fdcf-6319-42c4-8d7f-c14074f15091)
       </ul>
     </td>
   </tr>
