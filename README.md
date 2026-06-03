@@ -14,6 +14,6 @@
 
 ## My Stats 📊
 
-[![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mautaques)](https://github.com/mautaques/github-readme-stats)
 
 ![KFC](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)
