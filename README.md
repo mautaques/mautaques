@@ -14,9 +14,6 @@
 
 ## My Stats 📊
 
-<td>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautaques&layout=donut&theme=blue-green" width="300" alt="Top Languages"/>
-</td>
+[![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![KFC](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)
-
